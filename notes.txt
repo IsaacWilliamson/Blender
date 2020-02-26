@@ -1,0 +1,5 @@
+Polligon - https://www.poliigon.com/texture/metal-stainless-steel-brushed-elongated-005
+Polligon - https://www.poliigon.com/texture/wood-quartered-chiffon-001
+Polligon - https://help.poliigon.com/en/articles/2540839-poliigon-material-converter-addon-for-blender
+Stuffmatic - https://fspy.io/
+Antonio Vazquez - https://docs.blender.org/manual/fr/dev/addons/add_mesh/archimesh.html
